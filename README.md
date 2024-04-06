@@ -13,7 +13,7 @@ Identify trends and patterns in employee turnover to understand factors contribu
 
 ## Managerial Performance Evaluation:
 
-Evaluate the average manager rating based on employee feedback.
+Evaluate the average manager rating for each employee.
 Identify areas of improvement for managers to enhance team productivity and morale.
 
 
